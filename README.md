@@ -1,2 +1,2 @@
 # ml-regression
-Supervise Machine Learning Regression 
+Supervise Machine Learning Regression and Classification.
